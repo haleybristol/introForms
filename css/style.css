@@ -7,6 +7,6 @@ body {
   font-size: 20px;
 }
 
-.australia, .switzerland {
+.australia, .switzerland, .florida {
   display: none;
 }
