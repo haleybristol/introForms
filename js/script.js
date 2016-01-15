@@ -5,7 +5,6 @@ $(document).ready(function(){
     var age = $("input#age").val();
     var party = $("input#party").val();
     var exotic = $("input#exotic").val();
-      console.log
 
     if (landtype === "yes" && risk === "yes" && age != "" && party === "yes" && exotic != ""){
       $(".australia").show();
